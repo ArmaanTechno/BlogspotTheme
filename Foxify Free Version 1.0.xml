@@ -1507,7 +1507,7 @@ html,body#layout #outer-wrapper,body#layout .row{width:auto;padding:0 }body#layo
             <div class='header-items'>
               <div class='flex-left'>
                 <b:section class='main-logo' id='main-logo' maxwidgets='1' name='Header Logo' showaddelement='no'>
-                  <b:widget id='Header1' locked='true' title='Honest Review (Header)' type='Header' visible='true'>
+                  <b:widget id='Header1' locked='true' title='Application Review (Header)' type='Header' visible='true'>
                     <b:widget-settings>
                       <b:widget-setting name='displayUrl'>https://lh3.googleusercontent.com/aQ-HXBxtyjZUUgRC-kemYflliGk0yY9qlVK1Kub2Qrcrl1AmX6m2XZisHc82TG5Zgs1H5mlwmSrhBuh0KkJmIvXhv0h4ezl2URYsPZAiA7VeTh4tPlhHVQwMNLGqzFW7cwPWDNwLUnyOKWOqQebDZKFq0s1aqfy92iSEteUQIOffJuf96HWAKbGQMJonowamKvlwJfVGBMj35MMb3wG45YvqI9eU42KyoBKL3YGf8rvNaQo58vb41CWvC_kz3v_mMGPNOlZ64gtai_acn9ASt-47QTHqKXEpNYNG1yRhOhGKFbGDRUCqg06ijEsTa-SFrUq0Z6RmSAW0-2kt4DOO8EwZoD6pq9P2FgsNzQAKPxb_JJO_Mvc_WBalZO_ngeOCsSbEXYnSHPHOtGH1cdsixhcjL1A0Az3sVK5CLRfBjoqGeEwW9JUSi_UdTu12RrXJA2QD8q4Sm5wLcduN9kU0B_yhAodmAin3kXMosJcuhaPrEHb9SLZQo_sBOv1jMcMJmrSJtp_hTcQigNAIbOUJqnzHcGwX-P5G8ITh7QzuZdWGkUuzZaFH6IhN2iQfJRh-vGt73EJPF5GGsQKMNsyS6KPGk6D0jgzSdkjVaL1n3tNhcyVMiolYlfVO-UrOGQiZSoTR8S-pSAS1V6WWnGrYW7WDY7w2ZJuigRi8oOS8ECMiIXeT4n1onxZb56vcXCEChWlg3WDpsC5Ra405WujnJdg=w824-h491-no?authuser=0</b:widget-setting>
                       <b:widget-setting name='displayHeight'>80</b:widget-setting>
@@ -1544,33 +1544,27 @@ html,body#layout #outer-wrapper,body#layout .row{width:auto;padding:0 }body#layo
                 <b:section class='foxify-pro-main-nav' id='foxify-pro-main-nav' maxwidgets='1' name='Header Menu' showaddelement='no'>
                   <b:widget id='LinkList101' locked='true' title='' type='LinkList' visible='true'>
                     <b:widget-settings>
-                      <b:widget-setting name='sorting'>NONE</b:widget-setting> 
-					  <b:widget-setting name='text-0'>Home</b:widget-setting>		  
-                      <b:widget-setting name='link-0'>{homepage}</b:widget-setting>	  
-                      <b:widget-setting name='text-1'>Referal Program</b:widget-setting>
-                      <b:widget-setting name='link-1'>#</b:widget-setting>
-                      <b:widget-setting name='text-2'>_Join Now</b:widget-setting>
-                      <b:widget-setting name='link-2'>#</b:widget-setting>
-                      <b:widget-setting name='text-3'>__PayPal</b:widget-setting>
-                      <b:widget-setting name='link-3'>https://py.pl/1uBoS8</b:widget-setting>
-                      <b:widget-setting name='text-4'>__N26</b:widget-setting>
-                      <b:widget-setting name='link-4'>https://bit.ly/3GYCKMt</b:widget-setting>
-                      <b:widget-setting name='text-5'>__App Flame</b:widget-setting>
+                      <b:widget-setting name='text-9'>Download This Template</b:widget-setting>
+                      <b:widget-setting name='link-9'>https://www.templateify.com/2021/10/foxify-blogger-template.html</b:widget-setting>
+                      <b:widget-setting name='text-8'>__Video Doc</b:widget-setting>
+                      <b:widget-setting name='link-7'>https://armaanreviews.blogspot.com</b:widget-setting>
+                      <b:widget-setting name='link-8'>https://www.youtube.com/c/ArmaanTeleVision</b:widget-setting>
                       <b:widget-setting name='link-5'>https://bit.ly/3F0CLhn</b:widget-setting>
-                      <b:widget-setting name='text-6'>_Playstore</b:widget-setting>
-                      <b:widget-setting name='link-6'>https://foxify-templateify.blogspot.com/p/shortcodes-typography.html</b:widget-setting>
-                      <b:widget-setting name='text-7'>_Sitemap</b:widget-setting>
-                      <b:widget-setting name='link-7'>https://www.sorabloggingtips.com/2017/01/how-to-add-sitemap-widget-in-blogspot-blogs.html</b:widget-setting>
-                      <b:widget-setting name='text-8'>_Error Page</b:widget-setting>
-                      <b:widget-setting name='link-8'>https://foxify-templateify.blogspot.com/templateify</b:widget-setting>
-                      <b:widget-setting name='text-9'>Documentation</b:widget-setting>
-                      <b:widget-setting name='link-9'>#</b:widget-setting>
-                      <b:widget-setting name='text-10'>__Web Doc</b:widget-setting>
-                      <b:widget-setting name='link-10'>https://armaanreviews.blogspot.com</b:widget-setting>
-                      <b:widget-setting name='text-11'>__Video Doc</b:widget-setting>
-                      <b:widget-setting name='link-11'>https://www.youtube.com/c/ArmaanTeleVision</b:widget-setting>
-                      <b:widget-setting name='text-12'>Download This Template</b:widget-setting>
-                      <b:widget-setting name='link-12'>https://www.templateify.com/2021/10/foxify-blogger-template.html</b:widget-setting>
+                      <b:widget-setting name='link-6'>#</b:widget-setting>
+                      <b:widget-setting name='link-3'>https://py.pl/1uBoS8</b:widget-setting>
+                      <b:widget-setting name='link-4'>https://bit.ly/3GYCKMt</b:widget-setting>
+                      <b:widget-setting name='text-1'>Referal Program</b:widget-setting>
+                      <b:widget-setting name='text-0'>Home</b:widget-setting>
+                      <b:widget-setting name='text-3'>__PayPal</b:widget-setting>
+                      <b:widget-setting name='text-2'>_Join Now</b:widget-setting>
+                      <b:widget-setting name='text-5'>__App Flame</b:widget-setting>
+                      <b:widget-setting name='text-4'>__N26</b:widget-setting>
+                      <b:widget-setting name='text-7'>__Web Doc</b:widget-setting>
+                      <b:widget-setting name='text-6'>Documentation</b:widget-setting>
+                      <b:widget-setting name='sorting'>NONE</b:widget-setting>
+                      <b:widget-setting name='link-1'>#</b:widget-setting>
+                      <b:widget-setting name='link-2'>#</b:widget-setting>
+                      <b:widget-setting name='link-0'>{homepage}</b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -2446,7 +2440,7 @@ document.addEventListener(&quot;DOMContentLoaded&quot;, initYouTubeVideos);
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='displayWidth'>391</b:widget-setting>
               <b:widget-setting name='link'>/</b:widget-setting>
-              <b:widget-setting name='caption'><![CDATA[Here, we will teach you and update you how can you make additional money without any investment and work from home. It should be possible for all peoples, no matter what or where are you living.]]></b:widget-setting>
+              <b:widget-setting name='caption'>Here, we will teach you and update you how can you make additional money without any investment and work from home. It should be possible for all peoples, no matter what or where are you living.</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
